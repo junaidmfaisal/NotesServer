@@ -9,6 +9,6 @@ NotesServer.use(middleware)
 NotesServer.use(route)
 
 NotesServer.listen(PORT,()=>{
-    console.log(`MPServer started at port ${PORT} `);
+    console.log(`Notes started at port ${PORT} `);
     
 })
