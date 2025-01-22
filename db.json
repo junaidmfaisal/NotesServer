@@ -1,8 +1,14 @@
 {
   "notes": [
     {
-      "id": 1737530240326,
-      "text": "notes1"
+      "subject": "assignment",
+      "text": "submit by today",
+      "id": 1
+    },
+    {
+      "subject": "study",
+      "text": "study for the test tomorrow",
+      "id": 2
     }
   ]
 }
